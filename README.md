@@ -3,6 +3,7 @@
 Logs and dropped files collected from Raspberry Pi SSH honeypot
 
 dl/ - files downloaded using wget, curl
+
 log/ - SSH access logs, tty recordings
 
 kaiten/ - malware found on previous honeypot
