@@ -1,6 +1,6 @@
 # rpi-honeypot
 
-Logs and dropped files collected from Raspberry Pi SSH honeypot
+Logs and dropped files from RPi SSH honeypot
 
 dl/ - files downloaded using wget, curl
 
